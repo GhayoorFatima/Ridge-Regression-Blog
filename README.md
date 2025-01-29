@@ -15,7 +15,7 @@ Ridge Regression addresses these issues by adding a penalty term to the loss fun
 In a typical linear regression model, the goal is to minimize the residual sum of squares (RSS) between the predicted values and the actual target values. The formula for linear regression is:
 
 ^
-​
+​y
  =Xβ+ϵ
 
 Where:
